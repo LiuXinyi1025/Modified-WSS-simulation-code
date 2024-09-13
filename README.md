@@ -1,4 +1,5 @@
 # Modified-WSS-simulation-code
+
 These are three modified functions for Xinyi's MSc major individual project.
 1.	judgeH: Determining whether the fluid height is greater than 0 throughout the duration of the shear application (i.e., to ensure that the cells are covered by medium).
 2.	sheardistribution: Obtaining the shear stress distribution by traversing each location within the cylinder.
